@@ -1,0 +1,14 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Apr 1, 2023, 11:56:22 AM
+    Author     : TAIBA
+
+*/
+
+.button{
+      -fx-border-style:dashed;
+      -fx-background-color:#cf6227;
+}
